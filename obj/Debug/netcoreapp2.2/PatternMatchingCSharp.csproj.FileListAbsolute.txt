@@ -1,0 +1,11 @@
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\obj\Debug\netcoreapp2.2\PatternMatchingCSharp.csprojAssemblyReference.cache
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\obj\Debug\netcoreapp2.2\PatternMatchingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\obj\Debug\netcoreapp2.2\PatternMatchingCSharp.AssemblyInfoInputs.cache
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\obj\Debug\netcoreapp2.2\PatternMatchingCSharp.AssemblyInfo.cs
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\bin\Debug\netcoreapp2.2\PatternMatchingCSharp.deps.json
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\bin\Debug\netcoreapp2.2\PatternMatchingCSharp.runtimeconfig.json
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\bin\Debug\netcoreapp2.2\PatternMatchingCSharp.runtimeconfig.dev.json
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\bin\Debug\netcoreapp2.2\PatternMatchingCSharp.dll
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\bin\Debug\netcoreapp2.2\PatternMatchingCSharp.pdb
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\obj\Debug\netcoreapp2.2\PatternMatchingCSharp.dll
+C:\Users\dominic.copeland\source\PatternMatchingCSharp\obj\Debug\netcoreapp2.2\PatternMatchingCSharp.pdb
